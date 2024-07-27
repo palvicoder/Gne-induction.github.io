@@ -5,6 +5,13 @@
 <h2>My Introduction</h2>
 <p> My name is Palvi Bawa.I was born in 2006. I have completed my 10th examination from Victoria Public School(VPS)Lehra;CBSE board & 12th examination from Govt Sen Sec Smart School Dehlon;PSEB board. I am pursing Bteach in computer science and engeenering in Guru Nanak Dev Engeenering College. I love reading books specially novels and Painting is also my hobby. I don't know anything about computer languages but I am very passionate. and I know I will do it. I will give my 100℅ </p>
 
+<h1>Academics</h1>
+
+| Class | Year | Scores |
+| ---- | ---- | ---- |
+| 10th | 2022 | 89.4℅ |
+| 12th | 2024 | 90.6℅ |
+
 # GNDEC INDUCTION PROGRAM 2024
 
 <H2> | Date | 10-07-24 | </H2>
@@ -62,7 +69,7 @@
 <h4>UHV</h4>
 <p><b></b>UHV-Universal Human Values.</b>This is our first lecture of This subject. This lecture is taken by Neesha Mam. She is such a nice teacher. She told us many ethics, values. She gave us the knowledge about right understanding, fulfillment in relationships and physical facilities. She also told us that happiness is for the state of harmony. She also communicate with us and she asked many question from us like who u are, what you want to do. In short, the whole lecture was a new and amazing experience for us.</p>
 
-| Date | 18-07-24 |
+<h2>| Date | 18-07-24 |</h2>
 
 | S.no. | Date | Resource Person | Description |
 | ---- | ---- | ----| ----|
