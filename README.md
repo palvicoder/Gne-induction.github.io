@@ -63,7 +63,9 @@
 <p><b></b>UHV-Universal Human Values.</b>This is our first lecture of This subject. This lecture is taken by Neesha Mam. She is such a nice teacher. She told us many ethics, values. She gave us the knowledge about right understanding, fulfillment in relationships and physical facilities. She also told us that happiness is for the state of harmony. She also communicate with us and she asked many question from us like who u are, what you want to do. In short, the whole lecture was a new and amazing experience for us.</p>
 
 | Date | 18-07-24 |
+
 | S.no. | Date | Resource Person | Description |
+| ---- | ---- | ----| ----|
 | 01 | 18-07-24	| Manjot Mam | <h4>UHV</h4><b>
 Our today's UHV lecture was taken by Manjot Mam.She taught us about the co-existence of Self and Body. She told us about the concept of sources of imagination and differentiate between the requirements of self and body. Then she told us about harmony in family and told us about value education.|
 | 02 | 18-07-24	| By Seniors | <h4>PEER INTERACTION</h4><b>
