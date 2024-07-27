@@ -55,3 +55,9 @@
 <h4>ENGLISH QUIZ</h4>
 
 <p>After our codegne class we go to mechanical seminar hall for our english quiz.There are two quizes organised by teachers. The first quiz was based on English Communication Skills with two teams <b>team 'C'and team 'D'</b> who are competing with each other. Basically team C and D are the sections of cse branch. This was very good experience and we gain fruitful knowledge. Second quiz was based on general knowledge in this quiz we got the opportunity to know about various things and personalities. This quiz is divided into seven teams and in each team there are 4 members. Both the quizzes were interactive and we got the chance to know our teachers as well as peers.</p>
+
+<h2>| Date | 17-07-24 |</h2>
+<h4>MATHEMATICS</h4>
+<p>Today lecture was amazing.. Our today's maths teacher taught us many formulas and questions. He also gave us some questions as a homework. He taught us in a very simple way and clear our doubts in an amazing way. He also motivate us.</p>
+<h4>UHV</h4>
+<p><b></b>UHV-Universal Human Values.</b>This is our first lecture of This subject. This lecture is taken by Neesha Mam. She is such a nice teacher. She told us many ethics, values. She gave us the knowledge about right understanding, fulfillment in relationships and physical facilities. She also told us that happiness is for the state of harmony. She also communicate with us and she asked many question from us like who u are, what you want to do. In short, the whole lecture was a new and amazing experience for us.</p>
