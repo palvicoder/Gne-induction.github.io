@@ -34,3 +34,12 @@
 <li>He taught us the concepts of 12th just for revision.</li>
 <li>He gave us many questions of differentiation and taught us many formulas.</li>
 <li>He also encourage us and gave us so much information.</li>
+</ul>
+
+<h2>| Date | 15-07-24 |</h2>
+| S.no.	| Date | Resource Person | Description |
+| ---- | ---- | ---- | ---- |
+| 01 | 15-07-24 | Dr.Randhir Singh | Sir explained us how we can create an account on github |
+| 02 | 15-07-24 | Dr.Pyarelal Garg | Sir told us about human nature as well as motivate us and told us to be honest in every situation...Sir also recited many Inspirational poems...|
+| 03 | 15-07-24 | Mr.Sony Goyal |	Sir conducted a session named "1,2 ka 4"(ek do ka char) and apart from giving us information about careers, he told many funny stories with deep meaning to motivate us...I will always remember his words- DO WHAT YOU LOVE, LOVE WHAT YOU DO...|
+| 04 | 16-07-24 | Mr. Pancham | He is 4th year student of engeenering and also our senior but he have so much experience. He told us so many things about how we can know a person thoughts from their body language...he also gave us knowledge about racing cars competitions organised |
