@@ -80,7 +80,7 @@ This lecture is really amazing.In this session we met to a personality who is aw
 <h4>Department visit</h4> 
 Now it's time to visit our CS department. One of our professor visit with us to our labs and he told us about labs and what we will do there. Then our professors also told us about various clubs of our college like data science club. They also gave us some knowledge about placements and told us our college students who worked now in a big companies with very big packages. One of our college student is now worked with Microsoft with 51 lacks of package.
 
-| Date | 22-07-24 |
+<h2>| Date | 22-07-24 |</h2>
 
 | S.no. | Date | Resource Person | Description |
 | ---- | ---- | ---- | ---- |
