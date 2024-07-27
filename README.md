@@ -37,6 +37,7 @@
 </ul>
 
 <h2>| Date | 15-07-24 |</h2>
+
 | S.no.	| Date | Resource Person | Description |
 | ---- | ---- | ---- | ---- |
 | 01 | 15-07-24 | Dr.Randhir Singh | Sir explained us how we can create an account on github |
