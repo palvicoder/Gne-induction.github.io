@@ -27,6 +27,7 @@
 <li>Today we learnt how to use canva.</li>
 <li>Our seniors gave us many information about canva.</li>
 <li>We also create designer templates.</li>
+</ul>
 
 <h4>MATHEMATICS</h4>
 <ul>
