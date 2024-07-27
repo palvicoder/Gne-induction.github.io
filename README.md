@@ -32,6 +32,5 @@
 <ul>
 <li>Neeraj Kumar taught us mathematics.</li>
 <li>He taught us the concepts of 12th just for revision.</li>
-</ul>
-<p>He gave us many questions of differentiation and taught us many formulas.</p></b>
-<p>He also encourage us and gave us so much information.</p></b>
+<li>He gave us many questions of differentiation and taught us many formulas.</li>
+<li>He also encourage us and gave us so much information.</li>
